@@ -39,26 +39,22 @@ linkedin-agent/
 └── .gitignore # Environment and cache exclusions
 
 yaml
-Copy code
 
 ---
 
 ## 🛠️ Installation & Usage
 Clone the repository and activate the environment:  
-```bash
+
 git clone https://github.com/sameer-quresh/linkedin-agent.git
 cd linkedin-agent
 python -m venv venv
 venv\Scripts\activate   # (Windows)
 Install dependencies:
 
-bash
-Copy code
 pip install -r requirements.txt
 Run the autonomous scheduler:
 
-bash
-Copy code
+
 python scheduler.py
 🌐 Future Roadmap
 🔗 LinkedIn API Integration – End-to-end intelligent publishing
@@ -79,19 +75,5 @@ By combining automation with agentic intelligence, we are building the future of
 Built with vision and precision by Sameer Quresh,
 exploring the frontiers of Agentic AI and automation systems.
 
-pgsql
-Copy code
-
----
-
-🔥 This README positions your project as **cutting-edge**, not just a script. It uses **heavy, visionary language** while still being practical.  
-
-👉 Do you want me to also add **badges** (like Python version, license, “Built with APScheduler”) at the top to make it look even more pro?
 
 
-
-
-
-
-
-Ask ChatGPT
